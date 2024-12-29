@@ -1,0 +1,6 @@
+# PHP全新UI聚合支付系统第三方开源源码含代付/补单/多商家/单独/轮询/代理佣金/支付
+
+PHP全新UI聚合支付系统第三方开源源码含代付/补单/多商家/单独/轮询/代理佣金/支付<br>本商业版聚合支付系统是目前市面上使用比较广泛的聚合支付之一<br>1、管理后台：强大的聚合系统功能满足你全部日常所需、多权限、多商户、通道单独分配等。<br>2、商户后台：完整的商户操作中心、账单对账、账单分析、提现功能、代付接口、满足商户的使用。<br>3、代理后台：完善的代理机制、四级代理机制、代理可以直接开户、下级佣金自动结算、可以指定下级专用通道、单独设置费率。<br>系统主要功能: 支持API代付，大商户轮巡模式，轮巡代付，多通道批量代付，银行轮训，自动查询上游余额，手动代付，支持自动审核，人工审核，手续费单笔计算，财务统计，系统目前支持第三方支付通道70家左右，非市场上几千块钱的商品，系统不断开发更新五年左右，并发每秒可达100笔， 支持服务商功能，支持技术服务功能。<br>可做第三方支付系统，也可以做技术服务商系统。<br>1、支付系统已经开发成熟完善：系统包括总管理后台、代理后台、商户后台三端；特色通道轮询功能，方便平台进行资金分量管理；<br>2、收银台对接模式，兼容PC端和手机端，商户接入方便快捷；<br>3、程序提供接口示例和文档以供商家客户接入；<br>4、大数据版源码,全开源，无任何加密文件和域名限制；<br>商户演示：http://example.com/;      （测试账号：dafa01，123456）<br>代理演示：http://example.com/agent;（测试账号：ub2024，123456）<br>管理后台：http://example.com/admin （测试账号：admin，123456）<br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/0nlF1" style="color: red;">https://mega-file.org/0nlF1</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
